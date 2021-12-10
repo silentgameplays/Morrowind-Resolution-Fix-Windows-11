@@ -17,4 +17,8 @@ Computer\HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\WOW643
 
 6.*Don't modify any game settings after that
 
-Enjoy
+# Alternatively use the OpenMW project
+* https://downloads.openmw.org/windows/?C=M&O=D
+
+# Enjoy
+# silentgameplayzz
