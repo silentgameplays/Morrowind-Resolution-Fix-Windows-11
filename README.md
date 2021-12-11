@@ -1,4 +1,4 @@
-# Morrowind-Resolution-Fix-for-Windows-10-No-Mods-
+# Morrowind-Resolution-Fix-for-Windows-11
 1.*Install and launch Morrowind at least once,set all settings to desired levels
 
 2.*Open Regedit
